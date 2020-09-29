@@ -1,0 +1,22 @@
+<style>
+        
+        a {color: red}
+        a:hover {color: black}
+        h1 {
+            color: blue;
+            text-align: center;
+        }
+        h1:hover {color: red}
+        img {
+            display:block;
+            margin-left: auto;
+            margin-right: auto;
+            width: 30%;
+        }
+
+        
+        .foto-foto {border-radius: 50%;}
+        .nama-lengkap{text-align: center;}
+        .deskripsi-diri{display: inline-block;}
+
+</style>
